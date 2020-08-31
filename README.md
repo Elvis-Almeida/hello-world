@@ -16,3 +16,5 @@ Vazio|Vazio|vasio
   * 1
   * 2
   * 3
+# Imagem
+![chips de computador](https://github.com/Elvis-Almeida/hello-world/blob/master/shutterstock_630373883-300x195.jpg)
