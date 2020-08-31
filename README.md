@@ -5,3 +5,14 @@ Aprendendo github
 
 ~~teste pelo vs :)~~
 # Titulo
+
+Vazio|Vazio|vasio
+---|---|---
+1|2|3
+
+* 1
+* 2
+* 3
+  * 1
+  * 2
+  * 3
